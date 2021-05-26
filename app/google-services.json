@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "454390093165",
+    "firebase_url": "https://futa-connect.firebaseio.com",
+    "project_id": "futa-connect",
+    "storage_bucket": "futa-connect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454390093165:android:d61b01c0cd78036a4f3664",
+        "android_client_info": {
+          "package_name": "skyfold.hack.fconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454390093165-erahmob16f4su2emmdh58idb4thldedr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "skyfold.hack.fconnect",
+            "certificate_hash": "7aa081681cc7a9c93ede49ffe1c7ade599ab85f9"
+          }
+        },
+        {
+          "client_id": "454390093165-rgbulaoagicd3q43cfj5pagcr0081r84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3_ZMLnqEnV8zcdB0qKrkoHq6KkH-9nkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454390093165-rgbulaoagicd3q43cfj5pagcr0081r84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

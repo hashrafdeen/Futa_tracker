@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">FConnect</string>
+    <string name="map_key" translatable="false">
+        AIzaSyD3_ZMLnqEnV8zcdB0qKrkoHq6KkH-9nkw
+
+ </string>
+    <string name="drawerOpen" />
+    <string name="drawerClose" />
+    <string name="adAppId">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="todo">TODO</string>
+    <string name="enter_track_id">Enter Track ID ....</string>
+    <string name="track">Track</string>
+    <string name="powered_by_azeez_ashraf_o">Powered by Azeez, Ashraf O.</string>
+    <string name="azeez_ashraf">Azeez Ashraf</string>
+</resources>
